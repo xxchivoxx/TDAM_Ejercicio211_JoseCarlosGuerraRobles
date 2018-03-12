@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDAM_Ejercicio2.1.1_JoseCarlosGuerraRobles</string>
+    <string-array name="signo">
+        <item>Aries</item>
+        <item>Sagitario</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+    </string-array>
+
+</resources>
